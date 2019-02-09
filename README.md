@@ -9,6 +9,7 @@ Aerial imagery as a .jpg file save
 In console, either 'urban' or 'rural'
 ##### Usage
 In the command line,
+
 &nbsp;&nbsp;&nbsp;&nbsp;To generate a model after specifying parameters:
 ```sh
 $ python -c 'import urban_rural_classification.py; print urban_rural_classification.generate_classifier()'
