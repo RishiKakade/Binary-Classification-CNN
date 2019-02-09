@@ -4,6 +4,7 @@
 Binary Image Classification of Urban and Rural Aerial Imagery Using Convolutional Neural Networks
 ##### Input Parameters
 Aerial imagery as a .jpg file save
+
 &nbsp;&nbsp;&nbsp;&nbsp;See my other repository, Aerial Image Retrieval
 ##### Output
 In console, either 'urban' or 'rural'
